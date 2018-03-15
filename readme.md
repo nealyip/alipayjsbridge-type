@@ -1,4 +1,4 @@
-### AlipayJSBridge TS declaration file ###
+### AlipayJSBridge TS declaration file (unofficial) ###
 
 ## Installation ##
 ```npm
